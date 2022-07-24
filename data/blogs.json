@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My age",
+      "body": "I am 29 years old",
+      "author": "Opeyemi",
+      "id": 1
+    },
+    {
+      "title": "My name",
+      "body": "My name is Opeyemi",
+      "author": "Opeyemi",
+      "id": 2
+    },
+    {
+      "title": "My Academics",
+      "body": "I graduated from University of Ilorin\n",
+      "author": "Olasumbo",
+      "id": 3
+    },
+    {
+      "title": "My Town",
+      "body": "I am from Iwo",
+      "author": "Alani",
+      "id": 4
+    }
+  ]
+}
